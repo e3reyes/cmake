@@ -1,0 +1,3 @@
+/home/dev/projects/cpp/cmake/CMakeFiles/edit_cache.dir
+/home/dev/projects/cpp/cmake/CMakeFiles/rebuild_cache.dir
+/home/dev/projects/cpp/cmake/CMakeFiles/sample.dir
